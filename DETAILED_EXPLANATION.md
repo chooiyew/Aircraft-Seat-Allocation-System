@@ -3,15 +3,15 @@
 Assume that you are an engineer for AirFlyer, a low-cost airline operates in South East Asian county. You are ordered by your manager to develop a simple program to assign the seat for passengers who do not pay extra for seat reservation. As an initial try, you are given the flight model A320 where the principle parameter for the flight model as in Table 1. 
 
 **Table 1: Dimension of A320 Aircraft**
-| Name            | Particular                              |
-|-----------------|-:-:-------------------------------------|
-| Type            | A321                                    |
-| Length          | 44.51 metres                            |
-| Wingspan        | 34.10 metres with Sharklets 35.8 metres |
-| Tail Height     | 11.76 metres                            |
-| Fuselage Width  | 3.95 metres                             |
-| Cabin Width     | 3.70 metres                             |
-| Fuselage Height | 4.14 metres                             |
+|       Name      |                Particular               |
+|:---------------:|:---------------------------------------:|
+|       Type      |                   A321                  |
+|      Length     |               44.51 metres              |
+|     Wingspan    | 34.10 metres with Sharklets 35.8 metres |
+|   Tail Height   |               11.76 metres              |
+|  Fuselage Width |               3.95 metres               |
+|   Cabin Width   |               3.70 metres               |
+| Fuselage Height |               4.14 metres               |
 
 At the condition ready to take off, assume the mass of the flight without passenger is 62,500 kG and the center of gravity from the zero offset is located at X=0 meters and Y=0 meter. Besides, the seat layout of the flight and the coordinate of the seat as is shown in [Figure 1](Figure 1.png). The mass of each passenger is estimated according to the gender and age as shown in Table 2:
 
