@@ -5,3 +5,14 @@ This C program can read passengers' data from [WithReserve.dat](/WithReserve.dat
 Both the .dat files and the code can be modified to suit different needs.
 
 A more detailed description of the tasks is available in [DETAILED_EXPLANATION.md](/DETAILED_EXPLANATION.md/).
+
+## Files and their significance
+| [DETAILED_EXPLANATION.md](/DETAILED_EXPLANATION.md/) | Detailed description of what the program solves |
+|-:-:--------------------------------------------------|-:-:---------------------------------------------|
+| [Figure1.png](/Figure1.png/)                         | Coordinates of seats in A321 aircraft           |
+| [Figure2.png](/Figure2.png/)                         | Expected outcome opened in Notepad              |
+| [Figure3.png](/Figure3.png/)                         | Expected outcome opened in Excel                |
+| [NoReserve.dat](/NoReserve.dat/)                     | Input file for passenger without reservation    |
+| [WithReserve.dat](/WithReserve.dat/)                 | Input file for passenger with reservation       |
+| [PassengerList.csv](/PassengerList.csv/)             | Sample outcome obtained using project1demo.c    |
+| [project1demo.c](/project1demo.c/)                   | Program written in C, to be run in compiler     |
