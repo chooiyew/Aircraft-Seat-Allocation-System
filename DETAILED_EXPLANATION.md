@@ -13,7 +13,7 @@ Assume that you are an engineer for AirFlyer, a low-cost airline operates in Sou
 |   Cabin Width   |               3.70 metres               |
 | Fuselage Height |               4.14 metres               |
 
-At the condition ready to take off, assume the mass of the flight without passenger is 62,500 kG and the center of gravity from the zero offset is located at X=0 meters and Y=0 meter. Besides, the seat layout of the flight and the coordinate of the seat as is shown in [[Figure 1](/Figure1)]. The mass of each passenger is estimated according to the gender and age as shown in Table 2:
+At the condition ready to take off, assume the mass of the flight without passenger is 62,500 kG and the center of gravity from the zero offset is located at X=0 meters and Y=0 meter. Besides, the seat layout of the flight and the coordinate of the seat as is shown in [[Figure 1](/Aircraft-Seat-Allocation-System/DETAILED_EXPLANATION.md/Figure1)]. The mass of each passenger is estimated according to the gender and age as shown in Table 2:
 
 **Table 2: Body Weight for Different Age Groups**
 |      Age     |                 Male                 |                Female                |
