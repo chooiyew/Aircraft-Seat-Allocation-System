@@ -13,7 +13,7 @@ Assume that you are an engineer for AirFlyer, a low-cost airline operates in Sou
 |   Cabin Width   |               3.70 metres               |
 | Fuselage Height |               4.14 metres               |
 
-At the condition ready to take off, assume the mass of the flight without passenger is 62,500 kG and the center of gravity from the zero offset is located at X=0 meters and Y=0 meter. Besides, the seat layout of the flight and the coordinate of the seat as is shown in [[Figure 1](Figure1.png)]. The mass of each passenger is estimated according to the gender and age as shown in Table 2:
+At the condition ready to take off, assume the mass of the flight without passenger is 62,500 kG and the center of gravity from the zero offset is located at X=0 meters and Y=0 meter. Besides, the seat layout of the flight and the coordinate of the seat as is shown in [[Figure 1](#figure1)]. The mass of each passenger is estimated according to the gender and age as shown in Table 2:
 
 **Table 2: Body Weight for Different Age Groups**
 |      Age     |                 Male                 |                Female                |
@@ -27,6 +27,7 @@ At the condition ready to take off, assume the mass of the flight without passen
 
 As the programmer, your target is to build an automatic seat assign program where help in minimize the moment in both x-axis and y-axis toward the center point. The input file for passengers with paid seat reservation is named as “WithReserve.dat” and the input file for passenger without doing seat reservation is named as “NoReserve.dat”. Your program should able to generate an output with the file name “PassengerList.csv” and the format of output file as shown in Figure 2 and Figure 3.
 
+<a name="figure1">
 ![Figure1](Figure1.png)
 ![Figure2](Figure2.png)
 ![Figure3](Figure3.png)
