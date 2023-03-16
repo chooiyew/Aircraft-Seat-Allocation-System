@@ -4,4 +4,4 @@ This C program can read passengers' data from [WithReserve.dat](/WithReserve.dat
 
 Both the .dat files and the code can be modified to suit different needs.
 
-A more detailed description of the tasks is available in [DETAILED_EXPLANATION.md](/DETAILED_EXPLANATION.md/). 
+A more detailed description of the tasks is available in [DETAILED_EXPLANATION.md](/DETAILED_EXPLANATION.md/).
