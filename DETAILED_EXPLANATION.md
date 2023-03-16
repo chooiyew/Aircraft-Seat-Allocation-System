@@ -26,6 +26,7 @@ At the condition ready to take off, assume the mass of the flight without passen
 | 61 and above |                  65                  |                  55                  |
 
 As the programmer, your target is to build an automatic seat assign program where help in minimize the moment in both x-axis and y-axis toward the center point. The input file for passengers with paid seat reservation is named as “WithReserve.dat” and the input file for passenger without doing seat reservation is named as “NoReserve.dat”. Your program should able to generate an output with the file name “PassengerList.csv” and the format of output file as shown in [[Figure 2](#figure2)] and [[Figure 3](#figure3)].
+
 <a name="figure1"></a> ![Figure1](Figure1.png)
 <a name="figure2"></a> ![Figure2](Figure2.png)
 <a name="figure3"></a> ![Figure3](Figure3.png)
