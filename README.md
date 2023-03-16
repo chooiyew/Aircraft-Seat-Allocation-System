@@ -7,6 +7,8 @@ Both the .dat files and the code can be modified to suit different needs.
 A more detailed description of the tasks is available in [DETAILED_EXPLANATION.md](/DETAILED_EXPLANATION.md/).
 
 ## Table of content
+| File                                                 | Function                                        |
+|:----------------------------------------------------:|:-----------------------------------------------:|
 | [DETAILED_EXPLANATION.md](/DETAILED_EXPLANATION.md/) | Detailed description of what the program solves |
 | [Figure1.png](/Figure1.png/)                         | Coordinates of seats in A321 aircraft           |
 | [Figure2.png](/Figure2.png/)                         | Expected outcome opened in Notepad              |
