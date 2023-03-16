@@ -17,5 +17,5 @@ A more detailed description of the tasks is available in [DETAILED_EXPLANATION.m
 | [WithReserve.dat](/WithReserve.dat/)                 | Input file for passenger with reservation       |
 | [PassengerList.csv](/PassengerList.csv/)             | Sample outcome obtained using project1demo.c    |
 | [project1demo.c](/project1demo.c/)                   | Program written in C, to be run in compiler     |
-
+---
 <a name="figure1"></a> ![Figure1](Figure1.png)
